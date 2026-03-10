@@ -1,4 +1,4 @@
-import java.util.Stack; // Import Stack class so we can use stack data structure
+import java.util.Stack; 
 
 public class InfixToPostfix {
 
@@ -97,4 +97,5 @@ public class InfixToPostfix {
         // Print the result
         System.out.println("Postfix: " + Postfix);
     }
+
 }
